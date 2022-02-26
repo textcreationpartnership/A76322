@@ -1,0 +1,614 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony of the ministers in the province of Essex, to the trueth of Iesus Christ, and to the solemn league and covenant; as also against the errors, heresies, and blasphemies of these times, and the toleration of them. Sent up to the ministers within the province of London, subscribers of the first testimony.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76322</idno>
+            <idno type="STC">Wing B1674C</idno>
+            <idno type="STC">Thomason E438_4</idno>
+            <idno type="STC">ESTC R204749</idno>
+            <idno type="EEBO-CITATION">99864212</idno>
+            <idno type="PROQUEST">99864212</idno>
+            <idno type="VID">116435</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76322)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116435)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E438[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony of the ministers in the province of Essex, to the trueth of Iesus Christ, and to the solemn league and covenant; as also against the errors, heresies, and blasphemies of these times, and the toleration of them. Sent up to the ministers within the province of London, subscribers of the first testimony.</title>
+                  <author>Biddle, John, 1615-1662, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Tho. Underhill at the Bible in Woodstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.XLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. Attributed to John Biddle by Wing (2nd ed., 1972).</note>
+                  <note>Annotation on Thomason copy: "May 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116435:1"/>
+            <!-- PDF PAGE 62 -->
+            <pb facs="tcp:116435:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 62 -->
+            <p>A TESTIMONY OF THE Miniſters in the Province of <hi>Eſſex,</hi> TO THE Trueth of Ieſus Chriſt, AND TO <hi>The Solemn League and Covenant;</hi> AS ALSO Againſt the Errors, Hereſies, and Blaſphemies of theſe times, and the Toleration of them.</p>
+            <p>Sent up to the Miniſters within the Province of <hi>London,</hi> Subſcribers of the Firſt TESTIMONY.</p>
+            <p>
+               <add>May 3<hi rend="sup">d.</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>Tho. <g ref="char:V">Ʋ</g>nderhill</hi> at the Bible in Woodſtreet, M.DC.XLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116435:2"/>
+            <!-- PDF PAGE 63 -->
+            <pb n="1" facs="tcp:116435:2"/>
+            <!-- PDF PAGE 63 -->
+            <head>TO OUR REVEREND AND deare Brethren in the Lord, and in his work, Miniſters of the Goſpel, in the Province of <hi>London,</hi> Subſcribers to the late Te<g ref="char:EOLhyphen"/>ſtimony to the Trueth of Ieſus Chriſt; Grace, Mer<g ref="char:EOLhyphen"/>cy, and Peace be multiplied.</head>
+            <opener>
+               <salute>Reverend and Dear Brethren,</salute>
+            </opener>
+            <p n="1">1.<seg rend="decorInit">T</seg>HE hearty zeal we owe to the glo<g ref="char:EOLhyphen"/>ry of our gracious God, ſo mightily working for us, his unworthy Mini<g ref="char:EOLhyphen"/>ſters and People in this land, by ſtop<g ref="char:EOLhyphen"/>ping that deluge of Popery, Superſti<g ref="char:EOLhyphen"/>tion, and Prophaneneſs, ready of late yeares by a prevailing Faction to have overwhelmed us.</p>
+            <p n="2">2. The Conſcience of that Sacred Bond of our ſolemn League and Covenant, thereupon taken againſt Popery, Superſtition, Hereſie, Schiſme, and Prophaneneſſe.</p>
+            <p n="3">3. The ſad obſervation of that unthankfull requitall made for ſuch tranſcendent mercies, by ſo many more violent evills ever ſince, not only to break out into lawleſſe liberty and licenti<g ref="char:EOLhyphen"/>ouſneſſe, but to contend for the ſufferance and exerciſe of ma<g ref="char:EOLhyphen"/>ny dangerous things in matters of Doctrine and Worſhip.</p>
+            <p n="4">4. The active vigilancy of Satans Emiſſaries for ſowing the. Tares of pernicious Errors, deteſtable Hereſies, and horrid Blaſphemies.</p>
+            <p n="5">5. The remembrance of that day of Humiliation enjoyned by
+<pb n="2" facs="tcp:116435:3"/>
+               <!-- PDF PAGE 64 -->Authority of Parliament, and obſerved by us not long ſince, for ſuppreſſing the growth and ſpreading of thoſe abominati<g ref="char:EOLhyphen"/>ons ſo farre in this Land.</p>
+            <p n="6">6. The feare of ſome dreadfull Iudgement, the rod of Gods anger againſt us an hypocriticall Nation, and a people of his wrath, in caſe Reformation anſwerable to our Covenant ſo<g ref="char:EOLhyphen"/>lemnly ſworne, and humiliation publikely profeſſed, ſhould not accordingly be endeavoured.</p>
+            <p n="7">7. The deſire of our ſoules not to be partakers of other mens ſins, leſt we partake with them alſo in their plagues.</p>
+            <p n="8">8. The hope we have in the Lord, who hath put into the hearts of the honourable Houſes of Parliament, to acknowledge, <hi>That never any of Gods ſervants, ſince the foundation of the world had more high and ſtrong engagements, heartily, and ſincerely, to endeavour the compleat eſtabliſhment of purity and unity in the Church of God,</hi> That the ſame gracious God will alſo give them an heart to finiſh it.</p>
+            <p n="9">9. The ſence of our duty not onely as Chriſtians <hi>earneſtly to contend for the faith once delivered to the Saints,</hi> but alſo as Miniſters to beare witneſs to the trueth, and ſtand up for the con<g ref="char:EOLhyphen"/>firmation thereof againſt all gainſayers.</p>
+            <p n="10">10. The exemplary publike Teſtimony given by your ſelves (our faithfull Brethren) in your late Atteſtation to the Truth of Ieſus Chriſt, and to our ſolemn League and Covenant, are (amongſt divers conſiderations) no ſmall inducements to us the Miniſters of the Goſpel in the County of <hi>Eſſex,</hi> to give you the right hand of fellowſhip, not only by preaching the truth againſt raigning Errors, Hereſies, and Blaſphemies of theſe corrupt times; but by preſerving and tranſmitting that Sacred <hi>Depoſitum,</hi> as much as in us lyeth unto all poſterity.</p>
+            <p>We therefore whoſe names are hereunto ſubſcribed doe here<g ref="char:EOLhyphen"/>by declare and teſtifie to your ſelves, and to all our Brethren, the Miniſters and Members of this and all the Churches of Chriſt,</p>
+            <p n="1">1. That the Confeſſion of Faith, Directorie for Worſhip, and Humble Advice for Church Government, preſented by the Re<g ref="char:EOLhyphen"/>verend Aſſembly of Divines to the Honourable Parliament, are
+<pb n="3" facs="tcp:116435:3"/>
+               <!-- PDF PAGE 64 -->(as we conceive) ſo agreeable to the Word, that we cannot but exceedingly bleſſe the Name of our God, for his preſence with that Aſſembly; Profeſſing our hearty concurrence therein, and cheerfull readineſſe to ſubmit thereto; reſolving likewiſe to continue humble Suitors at the throne of Grace, That our gra<g ref="char:EOLhyphen"/>cious God in his due time would ſtirre up the Parliament to e<g ref="char:EOLhyphen"/>ſtabliſh the foreſaid Confeſſion of Faith, and Advice for Church-Government with their Civill Sanction, as they have already the Directory for Worſhip.</p>
+            <p n="2">2. That we look upon our ſolemne League and Covenant as a moſt choice bleſſing from God to theſe Churches and King<g ref="char:EOLhyphen"/>domes ſo happily united therein; Earneſtly intreating the Lord to give us grace, that we and all his people may continue faith<g ref="char:EOLhyphen"/>full therein; and not to charge upon us, but of his abundant mercy to pardon, wherein our ſelves, or the Kingdome have a<g ref="char:EOLhyphen"/>ny way therefrom hitherto receded.</p>
+            <p n="3">3. That however we judge it moſt agreeable to Chriſtianity, That tender Conſciences of <hi>Diſſenting Brethren</hi> bee tenderly dealt withall, yet we dare not carry in our boſomes ſuch ſteely Conſciences, and rockie hearts, as not to mourne in our ſoules: That after thoſe ſtrong engagements, and ſuch a ſolemn day of publike humiliation for ſuppreſſing thoſe growing and ſpread<g ref="char:EOLhyphen"/>ing Errors and Hereſies, yet in ſtead thereof (under colour of Liberty of Conſcience) the ſame ſtill are boldly and publikely vented and maintained, as much, if not more, then ever before, to the great diſhonour of the great and dreadfull name of Al<g ref="char:EOLhyphen"/>mighty God, the ſubverſion of his moſt holy Truth, the contempt of the publique Worſhip, Ordinances, and Miniſterie of Ieſus Chriſt, the perdition of unſtable ſoules, the grief and ſcandall of friends to Religion, and the great reproach of our Church and Kingdome; the which however ſome may perhaps count wiſe<g ref="char:EOLhyphen"/>dome to countenance and connive at, yet for our parts we do ſolemnlie and ſincerelie profeſſe as in the preſence of Almigh<g ref="char:EOLhyphen"/>tie God the Searcher and judge of all hearts, That from our ſoules we doe utterly deteſt and abhor, as all former curſed do<g ref="char:EOLhyphen"/>ctrines of <hi>Popery, Arminianiſme,</hi> and <hi>Socianiſme:</hi> So likewiſe all
+<pb n="4" facs="tcp:116435:4"/>
+               <!-- PDF PAGE 65 -->the damnable Errors, Hereſies, and Blaſphemies of theſe preſent evill times, whether of <hi>Anti-Scripturiſts, Familiſts, Antinomians, Anti-Trinitarians, Arrians, Anabaptiſts,</hi> or whatſoever is found contrary to ſound Doctrine, and the power of Godlineſs.</p>
+            <p>In all humility beſeeching the God of all grace, to direct, ſtabliſh, ſtrengthen, ſettle, and ſtill to preſerve us and all his faithfull people, from being led away with the Error of the wicked, to fall from our own ſtedfaſtneſſe; from our hearts fervently praying that the Lord Ieſus may not have a con<g ref="char:EOLhyphen"/>troverſie with this Church and Kingdome for ſuffering a<g ref="char:EOLhyphen"/>ny thing which his ſoul abhors; withall ever deſirous to bleſſe his holy Name, for your pious forwardneſſe in faith<g ref="char:EOLhyphen"/>full witneſs-bearing to the Truth of Chriſt, and perſwading our ſelves, that this your zeal will provoke others to the like Atteſtation,</p>
+            <closer>
+               <signed>We commend you to God, and the word of his grace, and remaine, <hi>Yoor unfained loving Brethren and fellow-Labourers in the work of the Lord.</hi>
+                  <list>
+                     <item>
+                        <hi>John Bedle,</hi> Miniſter of <hi>Bar<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eſton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Sandford,</hi> Miniſter of <hi>Rooding alba.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Smith</hi> Miniſter of <hi>Dunmow magna.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Hill</hi> Miniſter of <hi>Rooding alta.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Bates</hi> Miniſter of <hi>Maſhbery.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Noel</hi> Miniſter of <hi>Canfield parva.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Bridge</hi> Miniſter of <hi>Much Canfeild.</hi>
+                     </item>
+                     <item>
+                        <hi>Martin Alderſon</hi> Miniſter of <hi>Dunmow Parva.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Newton</hi> Miniſter of <hi>Sanford Magna.</hi>
+                     </item>
+                     <item>
+                        <pb n="5" facs="tcp:116435:4"/>
+                        <!-- PDF PAGE 65 -->
+                        <hi>Iſaac Pennington</hi> Miniſter of <hi>Sanford Parva.</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Parkin</hi> Miniſter of <hi>Thackſted.</hi>
+                     </item>
+                     <item>
+                        <hi>Eliſha Prat</hi> Miniſter of <hi>Lindſell.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Nicholas</hi> Miniſter of <hi>Willingale Spain.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Parkehurſt</hi> Miniſter of <hi>Southſhoobery.</hi>
+                     </item>
+                     <item>
+                        <hi>Nicolas Beard</hi> Miniſter of <hi>Rechford.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Gibſon</hi> Miniſter of <hi>Alſingdon.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Peck</hi> Miniſter of <hi>Prittlewell.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Argur</hi> Miniſter of <hi>Leigh.</hi>
+                     </item>
+                     <item>
+                        <hi>Abraham Caley</hi> Miniſter of <hi>Rayleigh.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Purcas</hi> Miniſter of <hi>Sut<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>n.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Oresby</hi> Miniſter of <hi>Hackwell.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioſiah Church</hi> Miniſter of <hi>South-Church.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Man</hi> Miniſter of <hi>Rawxeth.</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Norrice</hi> Miniſter of <hi>Canne<gap reason="illegible" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>don.</hi>
+                     </item>
+                     <item>
+                        <hi>Christoper Scot</hi> Miniſter of <hi>VV<gap reason="illegible" extent="2+ letters">
+                              <desc>••…</desc>
+                           </gap>ring magna.</hi>
+                     </item>
+                     <item>
+                        <hi>Iſaiah Sutliff</hi> Miniſter of <hi>Rottendon.</hi>
+                     </item>
+                     <item>
+                        <hi>Nathaneel Ranew</hi> Miniſter of <hi>Felſted,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Harriſon</hi> Miniſter of <hi>VValtham parva.</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Hales</hi> Paſtor of <hi>Hallingbury magna.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Yardley</hi> Miniſter of <hi>Sheering.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Spranger</hi> Paſtor of <hi>Harlow.</hi>
+                     </item>
+                     <item>
+                        <hi>Ieremiah Dyke</hi> Paſtor of <hi>P<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>nedon magna.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Cramphorne</hi> Miniſter of <hi>Nettleſwell.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry VVilkinſon</hi> Paſtor of <hi>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>pping.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Harper</hi> Paſtor of <hi>Naſing.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Denn</hi> Miniſter of <hi>Latton.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn VVilſon</hi> Miniſter of <hi>Hallingbury parva.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Borradale</hi> Miniſter of <hi>Steeple Bumpſted.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Pannell</hi> Miniſter of <hi>Stanborn.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Clark</hi> Miniſter of <hi>Tilbury.</hi>
+                     </item>
+                     <item>
+                        <pb n="6" facs="tcp:116435:5"/>
+                        <!-- PDF PAGE 66 -->
+                        <hi>Raph Hillis</hi> Miniſter of <hi>Redgwell.</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Sainthill</hi> Miniſter of <hi>Ovington.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Gent</hi> Miniſter of <hi>Birdbrook.</hi>
+                     </item>
+                     <item>
+                        <hi>Edmund Bruer</hi> Miniſter of <hi>Caſtle Hennigham.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Chadſley</hi> Miniſter of <hi>Yeldham parva.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Fiſher</hi> Miniſter of <hi>Belcham S<hi rend="sup">t</hi>
+                        </hi> Paul.</item>
+                     <item>
+                        <hi>Zach. Fitch</hi> Miniſter of <hi>Twinſted.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Chamberlin</hi> Miniſter of <hi>Bulme.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Ham</hi> Miniſter of <hi>Much Waltham.</hi>
+                     </item>
+                     <item>
+                        <hi>Atiel Rathband</hi> Miniſter of <hi>VVrittle.</hi>
+                     </item>
+                     <item>
+                        <hi>Iſrael Hewit</hi> Miniſter at <hi>Malden.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Smith</hi> Miniſter of <hi>Fryaring.</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Willet</hi> Miniſter of <hi>Chiſset parva.</hi>
+                     </item>
+                     <item>
+                        <hi>Rowland Greenwood</hi> Miniſter of <hi>Whimbiſh.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn More</hi> Miniſter of <hi>Clavering.</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Glover</hi> Miniſter of <hi>Debden.</hi>
+                     </item>
+                     <item>
+                        <hi>William Prime</hi> Miniſter of <hi>Elmeden.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Abbot</hi> Miniſter of <hi>Stanſted Mountfitchet.</hi>
+                     </item>
+                     <item>
+                        <hi>George Wilſon</hi> Miniſter of <hi>Elſenham.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Wells</hi> Miniſter of <hi>Elford magna.</hi>
+                     </item>
+                     <item>
+                        <hi>Humfry Maddiſon</hi> Miniſter of <hi>Wanſted.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Auſtin</hi> Miniſter of <hi>Rumford.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Bowyer</hi> Miniſter of <hi>Dag<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nham.</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Sanders</hi> Miniſter of <hi>Magdalen Laver.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Lavender</hi> Miniſter of <hi>High Ongar.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn VVheatly</hi> Miniſter of <hi>Havering.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Wood</hi> Miniſter of <hi>Abbis Reading.</hi>
+                     </item>
+                     <item>
+                        <hi>Gamaliel Carre</hi> Miniſter of <hi>Lambourne.</hi>
+                     </item>
+                     <item>
+                        <hi>Edmund Bruer</hi> Miniſter of <hi>Fifeild.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Siday</hi> Miniſter of <hi>Belcham Roiding.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas King</hi> Miniſter of <hi>High Laver.</hi>
+                     </item>
+                     <item>
+                        <pb n="7" facs="tcp:116435:5"/>
+                        <!-- PDF PAGE 66 -->
+                        <hi>George Bound</hi> Miniſter of <hi>Kelvedon.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Benthall</hi> Miniſter of <hi>Stapleford Abbot.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Horrock</hi> Miniſter of <hi>Stapleford Tawney.</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Wells</hi> Miniſter of <hi>Theyden Mount.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Wiston</hi> Miniſter of <hi>Norton Mandevile.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Willis</hi> Miniſter of <hi>Ingolston.</hi>
+                     </item>
+                     <item>
+                        <hi>Nathaneel Hewitſon</hi> Miniſter of <hi>Woodham Mortimer.</hi>
+                     </item>
+                     <item>
+                        <hi>William Rogers</hi> Miniſter of <hi>Marget Ingo.</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Duckfeild</hi> Miniſter of <hi>Childerditch.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Ford</hi> Miniſter of <hi>Great Warley.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Green</hi> Miniſter of <hi>Shelley.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ohn Wilſon</hi> Preacher of the Goſpel at <hi>Baddow Parva.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eorge Smith</hi> Miniſter of the Goſpel at <hi>Dedham.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>hn Hubbard</hi> Miniſter of the Goſpel in <hi>Boxted.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>omas Lawſon</hi> Miniſter of <hi>Doniland.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>ph <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oſſelin</hi> Miniſter of the Goſpel in <hi>Earles-Colne.</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>uel Rogers</hi> Miniſter of <hi>Much Tey.</hi>
+                     </item>
+                     <item>
+                        <hi>Nathaneel Bugg</hi> Miniſter of <hi>Much Horkeſly.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Fenar</hi> Miniſter of <hi>Langham.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn VVhite</hi> Miniſter of <hi>VVormingford.</hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Rogers</hi> Paſtor of <hi>Chappel.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Pulley</hi> Miniſter of <hi>Fordham.</hi>
+                     </item>
+                     <item>
+                        <hi>Gamaliel Carre</hi> Miniſter of <hi>Aldeham.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Brackley</hi> Paſtor of <hi>Colne Engayne.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Bridge</hi> Miniſter of <hi>Great Burſtad.</hi>
+                     </item>
+                     <item>
+                        <hi>VValter Tayler</hi> Miniſter of <hi>Hutton.</hi>
+                     </item>
+                     <item>
+                        <hi>Iames More</hi> Miniſter of <hi>Layendon.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Scott</hi> Miniſter of <hi>Fabben.</hi>
+                     </item>
+                     <item>
+                        <hi>Ionathan Hoyle</hi> Miniſter of <hi>Curringham.</hi>
+                     </item>
+                     <item>
+                        <hi>William How</hi> Miniſter of <hi>Dronton.</hi>
+                     </item>
+                     <item>
+                        <pb n="8" facs="tcp:116435:6"/>
+                        <!-- PDF PAGE 67 -->
+                        <hi>Samuel Smith</hi> Miniſter of <hi>Sanden.</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher VVragge</hi> of <hi>Much Badow.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Cliffe</hi> Miniſter of <hi>East Hornedon.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Cardinal</hi> Miniſter of <hi>VVeſt Hornedon.</hi>
+                     </item>
+                     <item>
+                        <hi>Marmaduke Iames</hi> Miniſter of <hi>
+                           <g ref="char:V">Ʋ</g>pminſter.</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Lathum</hi> Miniſter of <hi>Stifford.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Overed</hi> Miniſter of <hi>Topiſfeild.</hi>
+                     </item>
+                     <item>
+                        <hi>Ieremy Benton</hi> Miniſter of <hi>Finchingfeild.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Harmer,</hi> Miniſters in <hi>Colcheſter.</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Piggot</hi> Miniſters in <hi>Colcheſter.</hi>
+                     </item>
+                     <item>
+                        <hi>Gabrel Wyerſdale</hi> Miniſter of <hi>Lexden.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Tuller</hi> Miniſter of <hi>Iames</hi> in <hi>Colcheſter.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Onge</hi> Miniſter of the Goſpel.</item>
+                     <item>
+                        <hi>Henry Steinmer</hi> Miniſter of <hi>Bradfeild</hi>
+                     </item>
+                     <item>
+                        <hi>Nathanael VVard</hi> Miniſter of <hi>Shenfeild.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Powell</hi> Miniſter of the Goſpel.</item>
+                     <item>
+                        <hi>Iohn Ferrity</hi> Miniſter of <hi>Theydon German.</hi>
+                     </item>
+                     <item>
+                        <hi>Nicolas Foskingham</hi> Miniſter of the Goſpel.</item>
+                     <item>
+                        <hi>Nehemiah Dod</hi> Miniſter of <hi>Dodinghurst.</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Torye</hi> Miniſter of <hi>East Hanningfeild.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Lathum</hi> Miniſter of the Goſpel.</item>
+                     <item>
+                        <hi>Edward Thomas</hi> Miniſter of <hi>Oaten Belcham.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Deereſly</hi> Miniſter of <hi>VVakham S<hi rend="sup">t</hi>
+                        </hi> Paul.</item>
+                     <item>
+                        <hi>Iohn Sherman</hi> Rector of <hi>Bradwell juxtamare.</hi>
+                     </item>
+                     <item>
+                        <hi>Nehemiah Holmes</hi> Miniſter at <hi>Southminster.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Samons</hi> Miniſter of <hi>Burnham.</hi>
+                     </item>
+                     <item>
+                        <hi>Nath. Hewitſon</hi> Miniſter of <hi>VVoodham Mortimer.</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Buckley</hi> Miniſter of <hi>Nayland.</hi>
+                     </item>
+                     <item>
+                        <hi>Edmund Sherman</hi> Miniſter at <hi>Bradwell.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <pb n="9" facs="tcp:116435:6"/>
+               <!-- PDF PAGE 67 -->
+               <p>In matters that have paſſed the Aſſembly of Divines, it is not fit for us that are members thereof to make any further Atteſtation; In all other branches of this Teſtimony we doe fully and cordially concurre with our Brerhren,</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Richard Cleyton</hi> Miniſter at <hi>Eaſton magna.</hi>
+                        </item>
+                        <item>
+                           <hi>Mathew Newcomen</hi> Miniſter of the Goſpel at <hi>Dedham.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
